@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A premium personal AI assistant operating on a simulated OS dashboard, styled as Tony Stark's JARVIS. Supports speech synthesis, virtual file operations, dynamic shell command executions, and a multi-window desktop interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
